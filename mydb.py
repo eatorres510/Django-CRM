@@ -2,9 +2,9 @@ import psycopg2
 
 db_params = {
     'host': 'localhost',    # Replace with your database host
-    'database': 'crm',
-    'user': 'eator',
-    'password': '123456'
+    'database': 'database',
+    'user': '%%',
+    'password': '%%'
 }
 
 # Establish a database connection
